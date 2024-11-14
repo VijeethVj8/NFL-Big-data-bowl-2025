@@ -12,6 +12,7 @@ The main objective is to provide insightful analysis and predictions that can be
 - **Plays**: This dataset includes metadata about each play, such as game ID, play ID, and pass result.
 - **Players**: Information about each player, including height, weight, and position.
 - **Tracking Data**: Player movement data, including speed, acceleration, and location throughout each play.
+- https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data
 
 All data was sourced from the official NFL Big Data Bowl dataset.
 
